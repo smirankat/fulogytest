@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fc0543582fc27b73a87ad673481d9954",
+    "revision": "b68a93ce049cc947f0a0ea8f6fa9204b",
     "url": "/fulogytest/index.html"
   },
   {
-    "revision": "7a548465eab3150c48bc",
+    "revision": "078a7f9bd6257de311a6",
     "url": "/fulogytest/static/css/main.8b843f76.chunk.css"
   },
   {
-    "revision": "06cb07c1c15ed404af0b",
-    "url": "/fulogytest/static/js/2.0b4529f9.chunk.js"
+    "revision": "b05d3f7e2563902f6be0",
+    "url": "/fulogytest/static/js/2.2c6320aa.chunk.js"
   },
   {
     "revision": "e465a1d90cd90ed95cee5d0fa63a8915",
-    "url": "/fulogytest/static/js/2.0b4529f9.chunk.js.LICENSE.txt"
+    "url": "/fulogytest/static/js/2.2c6320aa.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7a548465eab3150c48bc",
-    "url": "/fulogytest/static/js/main.7d352aee.chunk.js"
+    "revision": "078a7f9bd6257de311a6",
+    "url": "/fulogytest/static/js/main.5581dbd1.chunk.js"
   },
   {
     "revision": "fcb603074b5d44f84b0a",
