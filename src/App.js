@@ -111,13 +111,15 @@ body: userPhone,
   })
   }
 
+useEffect(() => {
+  submitHandler()
+}, [userName, userEmail, userPhone])
 
   const handleSubmit = () => {
     setIsOpen(true);
     setUserName(name);
     setUserEmail(email);
     setUserPhone(phone);
-    submitHandler()
   };
 
   const [modalIsOpen, setModalIsOpen] = React.useState(false);
