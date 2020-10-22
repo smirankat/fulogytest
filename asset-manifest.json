@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/fulogytest/static/css/main.8b843f76.chunk.css",
+    "main.js": "/fulogytest/static/js/main.7d352aee.chunk.js",
+    "main.js.map": "/fulogytest/static/js/main.7d352aee.chunk.js.map",
+    "runtime-main.js": "/fulogytest/static/js/runtime-main.aa63a5c8.js",
+    "runtime-main.js.map": "/fulogytest/static/js/runtime-main.aa63a5c8.js.map",
+    "static/js/2.0b4529f9.chunk.js": "/fulogytest/static/js/2.0b4529f9.chunk.js",
+    "static/js/2.0b4529f9.chunk.js.map": "/fulogytest/static/js/2.0b4529f9.chunk.js.map",
+    "index.html": "/fulogytest/index.html",
+    "precache-manifest.a592eb3b7d88e0cfeb4431c3cde09c30.js": "/fulogytest/precache-manifest.a592eb3b7d88e0cfeb4431c3cde09c30.js",
+    "service-worker.js": "/fulogytest/service-worker.js",
+    "static/css/main.8b843f76.chunk.css.map": "/fulogytest/static/css/main.8b843f76.chunk.css.map",
+    "static/js/2.0b4529f9.chunk.js.LICENSE.txt": "/fulogytest/static/js/2.0b4529f9.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/fulogytest/static/media/open-sans-v18-latin_cyrillic-regular.aeb4b1bf.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aa63a5c8.js",
+    "static/js/2.0b4529f9.chunk.js",
+    "static/css/main.8b843f76.chunk.css",
+    "static/js/main.7d352aee.chunk.js"
+  ]
+}
