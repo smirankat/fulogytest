@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/fulogytest/static/css/main.8b843f76.chunk.css",
-    "main.js": "/fulogytest/static/js/main.5581dbd1.chunk.js",
-    "main.js.map": "/fulogytest/static/js/main.5581dbd1.chunk.js.map",
+    "main.js": "/fulogytest/static/js/main.d3a2a97d.chunk.js",
+    "main.js.map": "/fulogytest/static/js/main.d3a2a97d.chunk.js.map",
     "runtime-main.js": "/fulogytest/static/js/runtime-main.aa63a5c8.js",
     "runtime-main.js.map": "/fulogytest/static/js/runtime-main.aa63a5c8.js.map",
     "static/js/2.2c6320aa.chunk.js": "/fulogytest/static/js/2.2c6320aa.chunk.js",
     "static/js/2.2c6320aa.chunk.js.map": "/fulogytest/static/js/2.2c6320aa.chunk.js.map",
     "index.html": "/fulogytest/index.html",
-    "precache-manifest.c10e625bcbda78ca7310f2c43b5f5621.js": "/fulogytest/precache-manifest.c10e625bcbda78ca7310f2c43b5f5621.js",
+    "precache-manifest.c0ed2c7749fb95147370cb5dbf579a03.js": "/fulogytest/precache-manifest.c0ed2c7749fb95147370cb5dbf579a03.js",
     "service-worker.js": "/fulogytest/service-worker.js",
     "static/css/main.8b843f76.chunk.css.map": "/fulogytest/static/css/main.8b843f76.chunk.css.map",
     "static/js/2.2c6320aa.chunk.js.LICENSE.txt": "/fulogytest/static/js/2.2c6320aa.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.aa63a5c8.js",
     "static/js/2.2c6320aa.chunk.js",
     "static/css/main.8b843f76.chunk.css",
-    "static/js/main.5581dbd1.chunk.js"
+    "static/js/main.d3a2a97d.chunk.js"
   ]
 }

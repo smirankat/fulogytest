@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b68a93ce049cc947f0a0ea8f6fa9204b",
+    "revision": "37898eabf6c91bad7b91d2b17401469e",
     "url": "/fulogytest/index.html"
   },
   {
-    "revision": "078a7f9bd6257de311a6",
+    "revision": "e493295f10b8ee41c7a4",
     "url": "/fulogytest/static/css/main.8b843f76.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/fulogytest/static/js/2.2c6320aa.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "078a7f9bd6257de311a6",
-    "url": "/fulogytest/static/js/main.5581dbd1.chunk.js"
+    "revision": "e493295f10b8ee41c7a4",
+    "url": "/fulogytest/static/js/main.d3a2a97d.chunk.js"
   },
   {
     "revision": "fcb603074b5d44f84b0a",

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/fulogytest/precache-manifest.c10e625bcbda78ca7310f2c43b5f5621.js"
+  "/fulogytest/precache-manifest.c0ed2c7749fb95147370cb5dbf579a03.js"
 );
 
 self.addEventListener('message', (event) => {
